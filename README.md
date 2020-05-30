@@ -1,2 +1,2 @@
 # Standard-Meta-Language
-Soft Introduction to SML
+Soft Introduction to Standard ML of New Jersey
