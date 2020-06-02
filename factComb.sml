@@ -11,7 +11,7 @@ fun comb(n, k) = prod(1, n) div (prod(1, k) * prod(1, n-k));
 
 (*test cases*)
 val test1m = 1; (*test1m = m*)
-val test1n = 3; (*test1n = n*)
+val test1n = 6; (*test1n = n*)
 val prodResult = prod(test1m, test1n);
 
 val testComb = 4; (*testComb = k*)
