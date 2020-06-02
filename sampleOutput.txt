@@ -3,8 +3,8 @@ Standard ML of New Jersey v110.78 [built: Thu Aug 31 03:45:42 2017]
 - val prod = fn : int * int -> int
 val comb = fn : int * int -> int
 val test1m = 1 : int
-val test1n = 3 : int
-val prodResult = 6 : int
+val test1n = 6 : int
+val prodResult = 720 : int
 val testComb = 4 : int
-val combResult = 0 : int
+val combResult = 15 : int
 - 
