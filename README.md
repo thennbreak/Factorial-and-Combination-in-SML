@@ -39,10 +39,10 @@ val combResult = 15 : int
   - Go back to top now m = 720 and n = 1
   - is 1 ≤ 1? Yes so print m which is equal to 720: END
 ```
-```
+
  - For combinaiton(6, 4) = 6!/(4![6-4]!)
   - START: To get the numerator the program will call the function prod(1, 6) and then proceed to get the denominator, which will call the function prod twice.  Once for (1, k) where k = 4 and once for (1, n-k) where n = 6 and k = 4.  The program will then proceed to perform integer division on 720/24*2 which is equal to 15 which is the final result. END
-```
+
  **NOTE: N must be greater than or equal to K**
 
 
