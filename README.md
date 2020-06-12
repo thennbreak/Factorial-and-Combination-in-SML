@@ -9,6 +9,10 @@ With the given inputs n = 6, m = 1, and k = 4 we get the results:
 
 I can conclude that the factorial of 6 is 720 and the combination of comb(6, 4) is 15.  The following is the logic of the program which yields the results of the program:
 
+**Sample Output:**
+```
+
+
 **Logic:**
 - For 6! = 6 * 5 * 4 * 3 * 2 * 1:
   - START: is 6 ≤ 1 ? No so goto else prod(1, 6-1) * 6 which gives 1 * 6 = 6 
